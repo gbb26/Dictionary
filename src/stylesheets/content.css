@@ -1,0 +1,10 @@
+.fieldset{
+    border-style: solid none none none;
+}
+.syn{
+    color: rgb(222, 104, 104);
+}
+.list{
+    padding:4px;
+    list-style-type: none;
+}

@@ -1,0 +1,55 @@
+.logo{
+    font-size: 40px;
+}
+*{
+    list-style-type: none;
+}
+.navbar{
+    height:60px;
+    box-sizing: border-box;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.select{
+    background-color: inherit;
+    border-radius: 3px;
+    font-weight: bold;
+    width:auto;
+    height:25px;
+    text-align:center;
+    border: none;
+    outline: none;
+}
+.select > option{
+    background-color: inherit;
+}
+.select > option:hover{
+    background-color: rgb(223, 191, 191);
+}
+.select:hover{
+    border: none;
+    outline: none;
+    
+}
+.select:focus{
+    border: none;
+    outline: none;
+    
+}
+.input{
+    margin-top: 8px;
+    width:98%;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 1.4rem;
+    border:none;
+    outline: none;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+}
+.input:hover{
+    border: 1px solid rgb(72, 66, 67);
+    outline: none;
+}
