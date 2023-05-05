@@ -1,3 +1,3 @@
 # Dictionary
  ## Get Familiar with any English Word exists in the universe...
- ### https://gbb26.github.io/Dictionary/
+ ### https://gbb26.github.io/Dictionary-updated/
