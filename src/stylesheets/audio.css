@@ -1,0 +1,13 @@
+.btn{
+    border-radius: 40%;
+    background-color:rgb(213, 117, 133);
+    border: none;
+    color: antiquewhite;
+    width: auto;
+    height: auto;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.btn:active{
+    background-color: rgb(196, 98, 115);
+}
