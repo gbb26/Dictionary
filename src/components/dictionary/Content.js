@@ -1,7 +1,7 @@
 import React from 'react'
 import '../../stylesheets/content.css'
 function Content(props) {
-  // console.log(props.defn)
+  
   return (
     <div>
         <fieldset className='fieldset'>
