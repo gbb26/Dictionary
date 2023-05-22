@@ -53,7 +53,6 @@ function Header() {
                     <option className='option'>sans-serif</option>
                     <option className='option'>monospace</option>
                     <option className='option'>cursive</option>
-                    <option className='option'>fantasy</option>
                 </select>
             </form>
         </span>
